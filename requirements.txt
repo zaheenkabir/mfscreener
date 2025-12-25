@@ -6,6 +6,7 @@ plotly
 
 # Data Sources
 mftool
+deprecated
 yfinance
 requests
 nsepython
